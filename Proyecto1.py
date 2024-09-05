@@ -544,6 +544,13 @@ def main():
         main()
     elif opcion == 4:
         print('Mostrar Datos del Estudiante')
+        print("Carlos Heraldo Quiná Corona")
+        print("202300645")
+        print("Introducción a la Programación y Computación 2 sección D")
+        print("Ingeniería en Ciencias y Sistemas")
+        print("4to Semestre")
+        print( )
+        print("Drive: https://drive.google.com/drive/folders/1hmigpoOShV8lhYb0GVpbQH4yDXKLSWY6?usp=sharing")
         o = (input('enter para continuar: '))
         os.system('cls')
         main()
