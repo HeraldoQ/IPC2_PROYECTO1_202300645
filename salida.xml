@@ -1,0 +1,88 @@
+<matrices>
+	<matriz nombre="Matriz" n="4" m="5">
+		<dato x="1" y="1">8</dato>
+		<dato x="1" y="2">8</dato>
+		<dato x="1" y="3">8</dato>
+		<dato x="1" y="4">8</dato>
+		<dato x="1" y="5">8</dato>
+		<dato x="2" y="1">0</dato>
+		<dato x="2" y="2">2</dato>
+		<dato x="2" y="3">2</dato>
+		<dato x="2" y="4">2</dato>
+		<dato x="2" y="5">2</dato>
+		<dato x="3" y="1">0</dato>
+		<dato x="3" y="2">2</dato>
+		<dato x="3" y="3">0</dato>
+		<dato x="3" y="4">2</dato>
+		<dato x="3" y="5">2</dato>
+		<dato x="4" y="1">2</dato>
+		<dato x="4" y="2">0</dato>
+		<dato x="4" y="3">2</dato>
+		<dato x="4" y="4">2</dato>
+		<dato x="4" y="5">2</dato>
+		<Frecuencia g="1">0</frecuencia>
+		<Frecuencia g="5">1</frecuencia>
+		<Frecuencia g="6">0</frecuencia>
+	</matriz>
+
+	<matriz nombre="Matriz2" n="5" m="5">
+		<dato x="5" y="1">6</dato>
+		<dato x="5" y="2">6</dato>
+		<dato x="5" y="3">6</dato>
+		<dato x="5" y="4">6</dato>
+		<dato x="5" y="5">6</dato>
+		<dato x="6" y="1">0</dato>
+		<dato x="6" y="2">2</dato>
+		<dato x="6" y="3">2</dato>
+		<dato x="6" y="4">2</dato>
+		<dato x="6" y="5">2</dato>
+		<dato x="7" y="1">0</dato>
+		<dato x="7" y="2">2</dato>
+		<dato x="7" y="3">0</dato>
+		<dato x="7" y="4">2</dato>
+		<dato x="7" y="5">2</dato>
+		<dato x="8" y="1">2</dato>
+		<dato x="8" y="2">0</dato>
+		<dato x="8" y="3">2</dato>
+		<dato x="8" y="4">2</dato>
+		<dato x="8" y="5">2</dato>
+		<dato x="9" y="1">2</dato>
+		<dato x="9" y="2">2</dato>
+		<dato x="9" y="3">0</dato>
+		<dato x="9" y="4">0</dato>
+		<dato x="9" y="5">2</dato>
+		<Frecuencia g="1">1</frecuencia>
+		<Frecuencia g="5">0</frecuencia>
+	</matriz>
+
+	<matriz nombre="Matriz3" n="5" m="5">
+		<dato x="10" y="1">6</dato>
+		<dato x="10" y="2">6</dato>
+		<dato x="10" y="3">6</dato>
+		<dato x="10" y="4">6</dato>
+		<dato x="10" y="5">6</dato>
+		<dato x="11" y="1">0</dato>
+		<dato x="11" y="2">2</dato>
+		<dato x="11" y="3">2</dato>
+		<dato x="11" y="4">2</dato>
+		<dato x="11" y="5">2</dato>
+		<dato x="12" y="1">0</dato>
+		<dato x="12" y="2">2</dato>
+		<dato x="12" y="3">0</dato>
+		<dato x="12" y="4">2</dato>
+		<dato x="12" y="5">2</dato>
+		<dato x="13" y="1">2</dato>
+		<dato x="13" y="2">0</dato>
+		<dato x="13" y="3">2</dato>
+		<dato x="13" y="4">2</dato>
+		<dato x="13" y="5">2</dato>
+		<dato x="14" y="1">2</dato>
+		<dato x="14" y="2">2</dato>
+		<dato x="14" y="3">0</dato>
+		<dato x="14" y="4">0</dato>
+		<dato x="14" y="5">2</dato>
+		<Frecuencia g="1">1</frecuencia>
+		<Frecuencia g="5">0</frecuencia>
+	</matriz>
+
+</matrices>
